@@ -10,4 +10,6 @@ a = 4
 print()
 print("Ocorrera o erro NameError porque eu executei um comando em "
 + "um objeto A (maiúsculo) que nao foi definido anteriormente.")
+print()
 print(type(A))
+print()
